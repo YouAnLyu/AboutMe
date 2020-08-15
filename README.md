@@ -3,7 +3,9 @@
 <h6> 後端工程師、DBA </h6>
 
 [![Github](/Image/github.png "Github")](https://github.com/YouAnLyu)[![FB](/Image/facebook.png "FB")](https://www.facebook.com/profile.php?id=100001874989356)
+
 dill6655@yahoo.com.tw
+
 0983-128-876
 
 從事MVC的M已有一段時間，當初導入MVC架構到現在，除了M的問題之外，也協助VC的問題排解與UI/UX。目標是成為讓團隊依靠的後端工程師，並能提供團隊上的任何協助，不會只能解決後端的問題
